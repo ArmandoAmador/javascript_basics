@@ -30,12 +30,12 @@ body {
   background: #edeff0;
   padding: 50px 0 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 62.5%;
+  font-size: 150%;
 }
 
 h1,
 h2 {
-  font-size: 2.4em;
+  font-size: 1.5em;
   font-weight: 400;
   margin-bottom: 8px;
   color: #384047;
